@@ -10,4 +10,6 @@ function destructivelyPrependKitten(name){
   array.unshift(kittens);
 }
 
-function destructivelyRemoveLastKitten()
+function destructivelyRemoveLastKitten(){
+  
+}
